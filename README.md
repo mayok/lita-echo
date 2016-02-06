@@ -16,7 +16,7 @@ No configuration
 
 ## Usage
 
-echo <text>
+     echo <text>
 
 ## License
 
