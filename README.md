@@ -1,6 +1,6 @@
 # lita-echo
 
-TODO: Add a description of the plugin.
+echo back TEXT
 
 ## Installation
 
@@ -12,8 +12,12 @@ gem "lita-echo"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+No configuration
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+echo <text>
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
